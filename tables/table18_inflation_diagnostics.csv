@@ -1,0 +1,8 @@
+Metric,Value,Notes
+National housing weight in population-weighted combined core basket,22.01,percent of combined core basket
+National housing weight in population-weighted combined core basket,9.83,weight points
+"Mean absolute change in India annual core inflation when housing is excluded, 2012-13 to 2024-25",0.29,percentage points
+Maximum absolute change in India annual core inflation when housing is excluded,0.71,percentage points in 2021-22
+"Pearson correlation: quarterly AR vs India headline inflation, full overlap",0.54,p < 0.001; N = 56
+"Pearson correlation: quarterly AR vs India headline inflation, pre-COVID",0.70,p < 0.001; N = 29
+"Pearson correlation: quarterly AR vs India headline inflation, 2020 onward",0.24,p = 0.221; N = 27

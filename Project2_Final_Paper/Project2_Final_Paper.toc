@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Research Question and Contribution}{3}{section.2}%
+\contentsline {section}{\numberline {3}Literature Review}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Fiscal federalism and vertical imbalance}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Transfer design, incentives, and fiscal discipline}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Special category states and the North-Eastern/Himalayan fiscal problem}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Fiscal responsibility rules, capital expenditure, and the quality of adjustment}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Arunachal Pradesh-specific evidence}{6}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Institutional and Fiscal Background}{6}{section.4}%
+\contentsline {section}{\numberline {5}Data and Document Sources}{7}{section.5}%
+\contentsline {section}{\numberline {6}Construction of the Four Core Fiscal Indicators}{8}{section.6}%
+\contentsline {section}{\numberline {7}Long-Run Fiscal Structure}{9}{section.7}%
+\contentsline {section}{\numberline {8}Extended Fiscal Indicators and Transfer Dependence}{10}{section.8}%
+\contentsline {section}{\numberline {9}Results}{11}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Headline fiscal health}{11}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}The revenue-surplus paradox}{12}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Deficit reconciliation, central capex loans, and FRBM interpretation}{13}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Expenditure quality and committed burden}{14}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Own Revenue Elasticity}{15}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Transfer Shock Simulation}{17}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Cross-State Evidence}{19}{subsection.9.7}%
+\contentsline {section}{\numberline {10}Linking Fiscal Health to the State's Growth Pattern}{20}{section.10}%
+\contentsline {section}{\numberline {11}Policy Discussion}{21}{section.11}%
+\contentsline {section}{\numberline {12}Conclusion}{23}{section.12}%

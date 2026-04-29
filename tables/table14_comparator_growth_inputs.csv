@@ -1,0 +1,7 @@
+"State","Role","GSDP_Const_First","GSDP_Const_Last","GSDP_Const_Start_Value","GSDP_Const_Latest_Value","NSDP_PC_Const_First","NSDP_PC_Const_Last","NSDP_PC_Const_Start_Value","NSDP_PC_Const_Latest_Value","Sample_Note"
+"Arunachal Pradesh","Assigned frontier state",1980,2024,122951,2242331,1970,2024,13426,120943,"Complete 1991-92 to 2024-25 GSDP constant coverage."
+"Assam","Northeast regional baseline",1980,2024,4290479,34981426,1970,2024,20292,85988,"Complete 1991-92 to 2024-25 GSDP constant coverage."
+"Sikkim","Small Himalayan benchmark",1993,2023,180365,2490232,1993,2023,37214,292340,"GSDP constant sample begins 1993-94 and latest value is 2023-24."
+"Himachal Pradesh","Hill-state counterfactual",1980,2024,1129102,14520669,1967,2024,20457,162275,"Complete 1991-92 to 2024-25 GSDP constant coverage."
+"Tripura","Northeast robustness comparator",1980,2024,236369,5026163,1960,2024,8705,106126,"Complete 1991-92 to 2024-25 GSDP constant coverage."
+"Meghalaya","Northeast robustness comparator",1980,2024,292454,3306654,1980,2024,21343,84578,"Complete 1991-92 to 2024-25 GSDP constant coverage."

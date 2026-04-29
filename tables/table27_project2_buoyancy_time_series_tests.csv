@@ -1,0 +1,7 @@
+"Test","Series","DeterministicTerms","TestStatistic","PValue","UsedLag","Nobs","Critical_1pct","Critical_5pct","Critical_10pct","RejectAt5Pct","Interpretation"
+"ADF","log own tax revenue","ct",-3.62397865057344,0.0278773315385411,0,33,-4.26294410746584,-3.55309254333973,-3.20962849570081,"True","Reject unit root at 5%"
+"ADF","log GSDP","ct",-4.58302470252887,0.0011006854751284,10,23,-4.41714831018328,-3.62218750965727,-3.24872645269993,"True","Reject unit root at 5%"
+"ADF","d.log own tax revenue","c",-6.70767619012202,3.74906833026731e-09,0,32,-3.6535198059082,-2.95721856445313,-2.6175881640625,"True","Reject unit root at 5%"
+"ADF","d.log GSDP","c",-5.13539804425253,1.18944369616752e-05,0,32,-3.6535198059082,-2.95721856445313,-2.6175881640625,"True","Reject unit root at 5%"
+"ADF","OLS residual from log own tax on log GSDP","n",-3.05490042518793,0.00222972386106011,0,33,-2.63682209366391,-1.9513605587556,-1.61055791913627,"True","Reject unit root at 5%"
+"Engle-Granger","log own tax revenue and log GSDP","c",-3.05490042518793,0.0977250419712962,,34,-4.25910271808999,-3.52754992653811,-3.1754689164371,"False","Do not reject no cointegration at 5%"

@@ -1,0 +1,7 @@
+"State","Role","Pre_Covid_Trend_CAGR_2014_2019","Actual_Covid_Growth_2019_2020","Shock_vs_PreTrend_pp","Recovery_CAGR_2020_to_Latest","Latest_Year","Latest_Level_vs_2019_pct"
+"Arunachal Pradesh","Assigned frontier state",5.88,-3.69,-9.57,5.02,2024,17.15
+"Assam","Northeast regional baseline",7.82,2.95,-4.86,9,2024,45.33
+"Sikkim","Small Himalayan benchmark",8.32,0.33,-7.99,8.39,2023,27.76
+"Himachal Pradesh","Hill-state counterfactual",6.36,-4.4,-10.76,5.8,2024,19.78
+"Tripura","Northeast robustness comparator",7.14,-4.36,-11.5,8.4,2024,32.05
+"Meghalaya","Northeast robustness comparator",4.35,-7.85,-12.2,9.54,2024,32.67
