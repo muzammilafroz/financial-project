@@ -3,15 +3,11 @@
 ## Source of Truth
 
 - Main executable notebook: `full_analysis.ipynb`
-- Main guide in this workspace: `RESEARCH_AGENT_GUIDE_v2.md`
 - Findings draft: `RESEARCH_FINDINGS.md`
 - Final Project 1 paper source: `Project1_Final_Paper/Project1_Final_Paper.tex`
 - Final Project 1 paper PDFs: `Project1_Final_Paper/Project1_Final_Paper.pdf` and `Project1_Final_Paper/S.M. Muzammil Afroz.pdf`
 - Data folder: `Data/`
 - Output folders: `tables/`, `figures/`
-- Legacy/reference R scripts: `full_analysis.R`, `generate_outputs.R`
-
-The notebook is now self-contained: it does not call `source()`, `full_analysis.R`, or `generate_outputs.R`. Keep the `.R` files only as historical reference until submission is frozen.
 
 Key new Project 1 data sources added on 2026-04-26:
 
@@ -137,7 +133,7 @@ Current comparator findings from the notebook:
 Best combined Project 1 plus Project 2 publishable angle:
 
 - "Transfer-dependent frontier growth": AR looks fiscally healthy and grows reasonably fast, but both patterns are tied to central transfers, weak own revenue, and limited structural transformation.
-- The publishable contribution is not another descriptive state report; it is the paradox: high revenue surplus, low interest burden, high central dependence, and a services-heavy economy with rural-only inflation pressure.
+- This contribution is not another descriptive state report; it is the paradox: high revenue surplus, low interest burden, high central dependence, and a services-heavy economy with rural-only inflation pressure.
 
 ## Project 2 Ready State
 
